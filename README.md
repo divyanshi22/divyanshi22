@@ -1,7 +1,7 @@
 ### Hello 👋
 welcome to my Github repository:smile:<br><br>
 I’m currently learning front-end development.🤟 <br><br>
-😇connect with me on https://www.linkedin.com/in/divyanshi-aggarwal-113a29207/
+😇 connect with me on https://www.linkedin.com/in/divyanshi-aggarwal-113a29207/
 <!--
 **divyanshi22/divyanshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
